@@ -2,7 +2,7 @@ rem ****************************************************************************
 rem DEBUT DU SCRIPT 
 rem BACKDOOR_WINDOWS
 rem LE : 13/12/2022 
-rem PROGRAMME PRODUIT PAR SCION-545926
+rem PROGRAMME PRODUIT PAR SCION-545926/DIGYSKY
 rem LICENCE OPEN SOURCE 
 rem VERSION 1.1.3
 rem ********************************************************************************
@@ -322,7 +322,7 @@ rem --------------------------------------
 	
 rem ******************************************************************************** 
 rem LE : 13/12/2022 
-rem PROGRAMME PRODUIT PAR SCION-545926
+rem PROGRAMME PRODUIT PAR SCION-545926/DIGYSKY
 rem LICENCE OPEN SOURCE 
 rem VERSION 1.1.3
 rem FIN DU SCRIPT
