@@ -1,7 +1,7 @@
 # BACKDOR_WINDOWS
 
 ## Description
-BACKDOR_WINDOWS est un script batch conçu pour exploiter une faille sur les systèmes d'exploitation Windows XP/Vista/7/8/8.1/10/11. Il permet de créer une backdoor pour accéder à un système compromis.
+BACKDOR_WINDOWS est un script batch conçu pour exploiter une faille CONNUE sur les systèmes d'exploitation Windows XP/Vista/7/8/8.1/10/11. Il permet de créer une backdoor pour accéder à un système compromis.
 
 ## Utilisation
 Pour utiliser ce script :
