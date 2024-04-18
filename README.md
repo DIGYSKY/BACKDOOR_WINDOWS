@@ -12,3 +12,6 @@ Pour utiliser ce script :
 ## Avertissement
 Ce script est fourni à des fins éducatives uniquement. L'utilisation de ce script pour accéder à un système sans autorisation est illégale et peut entraîner des conséquences juridiques. L'auteur ne prend aucune responsabilité pour toute utilisation abusive de ce script.
 
+## Auteur
+BACKDOOR_WINDOWS by [DIGYSK](https://github.com/DIGYSKY)
+MSGBOX by par [Myc_1](http://myc01.free.fr/msgbox/).
