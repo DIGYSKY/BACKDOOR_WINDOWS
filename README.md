@@ -1,21 +1,22 @@
-# BACKDOR_WINDOWS
+# BACKDOOR_WINDOWS
 
 ![Screen Back door](https://miro.medium.com/v2/resize:fit:1400/1*zffI4cGVHhODfOIRz9yq8Q.png)
 
 ## Description
-BACKDOR_WINDOWS est un script batch conçu pour exploiter une faille CONNUE sur les systèmes d'exploitation Windows XP/Vista/7/8/8.1/10/11. Il permet de créer une backdoor pour accéder à un système compromis. En cas d'oublie de mot de passe par exemple !
+BACKDOOR_WINDOWS is a batch script designed to exploit a KNOWN vulnerability in Windows operating systems XP/Vista/7/8/8.1/10/11. It allows creating a backdoor to access a compromised system. For example, in case of a forgotten password!
+THIS PROGRAM CAN ONLY BE RUN ON A PORTABLE WINDOWS SYSTEM TYPE: MINI WINDOWS
 
-## Utilisation
-Pour utiliser ce script :
-1. Téléchargez les fichiers sur un mini-OS bootable tel que [Medicat Mini Windows 10](https://medicatusb.com/).
-2. Exécutez le script batch en double-cliquant dessus ou en l'exécutant depuis l'invite de commandes.
-3. Suivez les instructions à l'écran pour créer la backdoor.
+## Usage
+To use this script:
+1. Download the files onto a bootable mini-OS such as [Medicat Mini Windows 10](https://medicatusb.com/).
+2. Execute the batch script by double-clicking on it or running it from the command prompt.
+3. Follow the on-screen instructions to create the backdoor.
 
-![Screen Openning back door](https://www.technig.com/wp-content/uploads/2022/04/Accessibility-1024x576.png)
+![Screen Opening back door](https://www.technig.com/wp-content/uploads/2022/04/Accessibility-1024x576.png)
 
-## Avertissement
-Ce script est fourni à des fins éducatives uniquement. L'utilisation de ce script pour accéder à un système sans autorisation est illégale et peut entraîner des conséquences juridiques. L'auteur ne prend aucune responsabilité pour toute utilisation abusive de ce script.
+## Warning
+This script is provided for educational purposes only. Using this script to access a system without authorization is illegal and may result in legal consequences. The author takes no responsibility for any misuse of this script.
 
-## Auteur
+## Author
 BACKDOOR_WINDOWS by [DIGYSK](https://github.com/DIGYSKY)
-MSGBOX by par [Myc_1](http://myc01.free.fr/msgbox/).
+MSGBOX by [Myc_1](http://myc01.free.fr/msgbox/).
