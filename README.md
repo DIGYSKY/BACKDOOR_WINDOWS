@@ -5,7 +5,7 @@ BACKDOR_WINDOWS est un script batch conçu pour exploiter une faille sur les sys
 
 ## Utilisation
 Pour utiliser ce script :
-1. Téléchargez les fichiers sur un mini-OS bootable tel que Medicat.
+1. Téléchargez les fichiers sur un mini-OS bootable tel que [Medicat Mini Windows 10](https://medicatusb.com/).
 2. Exécutez le script batch en double-cliquant dessus ou en l'exécutant depuis l'invite de commandes.
 3. Suivez les instructions à l'écran pour créer la backdoor.
 
