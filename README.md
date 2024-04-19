@@ -20,3 +20,9 @@ This script is provided for educational purposes only. Using this script to acce
 ## Authors
 BACKDOOR_WINDOWS by [DIGYSK](https://github.com/DIGYSKY)<br>
 MSGBOX by [Myc_1](http://myc01.free.fr/msgbox/).
+
+---
+
+# In progress
+
+The next step of the project is to adapt the code into C, Bash, or Python and integrate it into a custom Linux distribution to improve the code's efficiency and automation. This adaptation will enable greater flexibility and compatibility across different systems while enhancing security measures.
