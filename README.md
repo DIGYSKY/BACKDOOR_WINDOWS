@@ -14,7 +14,7 @@ To use this script:
 
 ![Screen Opening back door](https://www.technig.com/wp-content/uploads/2022/04/Accessibility-1024x576.png)
 
-# Preventing Security Vulnerability by Encrypting the System Hard Drive
+## Preventing Security Vulnerability by Encrypting the System Hard Drive
 
 To safeguard against this security vulnerability and enhance the protection of Windows operating systems, an effective approach is to encrypt the system hard drive. Encrypting the hard drive ensures that even in the event of unauthorized access or attempted backdoor exploitation, sensitive data remains inaccessible without the appropriate encryption key.
 
@@ -35,7 +35,7 @@ Here are the steps to encrypt the system hard drive on Windows:
 
 By encrypting the system hard drive, you significantly mitigate the risks associated with backdoor exploitation or unauthorized access to sensitive data. Ensure to regularly backup your encryption key and take appropriate measures to protect this key to prevent data loss.
 
-# In progress
+## In progress
 
 The next step of the project is to adapt the code into C, Bash, or Python and integrate it into a custom Linux distribution to improve the code's efficiency and automation. This adaptation will enable greater flexibility and compatibility across different systems while enhancing security measures.
 
