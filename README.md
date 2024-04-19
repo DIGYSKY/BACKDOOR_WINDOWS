@@ -17,6 +17,6 @@ To use this script:
 ## Warning
 This script is provided for educational purposes only. Using this script to access a system without authorization is illegal and may result in legal consequences. The author takes no responsibility for any misuse of this script.
 
-## Author
-BACKDOOR_WINDOWS by [DIGYSK](https://github.com/DIGYSKY)
+## Authors
+BACKDOOR_WINDOWS by [DIGYSK](https://github.com/DIGYSKY)<br>
 MSGBOX by [Myc_1](http://myc01.free.fr/msgbox/).
